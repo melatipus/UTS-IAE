@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/rafidfadhil/UTS-EAI/internal/controller"
-	"github.com/rafidfadhil/UTS-EAI/internal/middleware"
+	"github.com/melatipus/UTS-EAI/internal/controller"
+	"github.com/melatipus/UTS-EAI/internal/middleware"
 )
 
 func Setup(app *fiber.App) {

@@ -3,7 +3,7 @@ package database
 import (
 	"log"
 
-	"github.com/rafidfadhil/UTS-EAI/internal/model"
+	"github.com/melatipus/UTS-EAI/internal/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

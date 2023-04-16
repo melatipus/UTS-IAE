@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/rafidfadhil/UTS-EAI/internal/database"
-	"github.com/rafidfadhil/UTS-EAI/internal/model"
+	"github.com/melatipus/UTS-EAI/internal/database"
+	"github.com/melatipus/UTS-EAI/internal/model"
 )
 
 type Config struct {

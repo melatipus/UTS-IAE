@@ -6,9 +6,9 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/rafidfadhil/UTS-EAI/internal/database"
-	"github.com/rafidfadhil/UTS-EAI/internal/dto"
-	"github.com/rafidfadhil/UTS-EAI/internal/model"
+	"github.com/melatipus/UTS-EAI/internal/database"
+	"github.com/melatipus/UTS-EAI/internal/dto"
+	"github.com/melatipus/UTS-EAI/internal/model"
 	"golang.org/x/crypto/bcrypt"
 )
 

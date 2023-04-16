@@ -4,9 +4,9 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/rafidfadhil/UTS-EAI/internal/database"
-	"github.com/rafidfadhil/UTS-EAI/internal/dto"
-	"github.com/rafidfadhil/UTS-EAI/internal/model"
+	"github.com/melatipus/UTS-EAI/internal/database"
+	"github.com/melatipus/UTS-EAI/internal/dto"
+	"github.com/melatipus/UTS-EAI/internal/model"
 )
 
 func CreateCategory(c *fiber.Ctx) (err error) {
